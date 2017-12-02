@@ -1,0 +1,31 @@
+
+body {
+    background-color: snow;
+}
+#current {
+    color: steelblue;
+}
+#testcase {
+    font: "Arial";
+    margin-top: .5cm;
+    color: rgb(88, 185, 239);
+}
+#ending {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+#nomore {
+    margin-top: 3.75cm;
+    margin-bottom: 1.5cm;
+}
+p {
+    border: 2px solid rgb(88,185,239);
+    border-radius: 9px;
+    font-size: 15px;
+}
+h1 {
+    margin-bottom: .5cm;
+}
