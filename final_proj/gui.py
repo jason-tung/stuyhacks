@@ -31,7 +31,7 @@ background: rgba(0,0,0,0.5);
 width: 50%
 }
 body{
-	background-image:url(http://i.imgur.com/4vTmqKo.gif);
+	background-image:url(poo.gif);
 	background-color:white;
 	background-size:100% 100%;
 	background-repeat:no-repeat;
