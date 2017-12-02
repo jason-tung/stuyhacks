@@ -1,8 +1,0 @@
-<DOCTYPE !html>
-<html>
-<body>
-<h5>God</h5>
-<h4>Is</h4>
-<h3>Dead</h3>
-</body>
-</html>
