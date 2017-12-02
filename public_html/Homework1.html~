@@ -1,0 +1,60 @@
+<DOCTYPE! html>
+<html>
+	<head>
+		<title> Acids and Bases</title>
+		<h1> <center>ACIDS AND BASES: STUDY SHEET </center> </h1>
+	</head>
+	<body>
+		<h2> <center>Classification System</center></h2>
+		<p> 	We use three ways in particular to define acids and bases: the <b>Arhennius</b> definition (the least broad), the <b>Bronsted-Lowry</b> definition (the middle), and the <b>Lewis</b> definition(the most accurate). The Arhennius acid is defined as a compound that breaks up in water to give off hydronium ions (H+). Arhennius bases are defined as compounds that break apart into hydroxide ions (OH-). Bronsted-Lowry acids are compounds that are proton donors. Bronsted-Lowry bases are compounds that are proton acceptors. Finally, Lewis acids are compounds that are electron pair acceptors, and Lewis bases are electron pair donors. </p>
+<table border = "5">
+<tr>
+<th> System </th>
+<th> Acids </th>
+<th> Bases </th>
+</tr>
+<tr>
+<td> Arrhenius </td>
+<td> Compounds thats break apart in water to give off hydronium ions </td>
+<td> N/A </td>
+</tr>
+<tr>
+<td> Bronsted-Lowry </td>
+<td> Compounds that are proton donors </td> 
+<td> Compouns that are proton acceptors </td>
+</tr>
+<tr>
+<td> Lewis </td>
+<td> Compounds that are electron pair acceptors </td>
+<td> Compounds that are electron pair donors </td>
+</tr>
+</table>	
+	<h3> <center>Strong vs Weak </center></h3>
+		<p>	Strong acids are defined as dissociating completely in water. Weak acids don't. There are only six strong acids: </p>
+	<ol>
+	<li> HCl </li>
+	<li> HNO<sub>3</sub> </li>
+	<li> H<sub>2</sub>SO<sub>4</sub> </li>
+	<li> HBr </li>
+	<li> HClO<sub>4</sub> </li>
+	<li> HI </li>
+	<li> HClO<sub>3</sub> </li>
+	</ol>
+	<p> 	However, there are too many weak acids to count. The number is in the hundreds. Similarly, for bases, there are eight strong bases and a multitude of weak bases. There is a simple trick to remember the eight strong bases: they all end with hydroxides, and it's either rows 2-6 in column 1 or rows 4-6 in column 2. In other words, it is:</p>
+	<ol>
+	<li> LiOH </li>
+	<li> NaOH </li>
+	<li> KOH </li>
+	<li> RbOH </li>
+	<li> CsOH </li>
+	<li> Ca(OH)<sub>2</sub> </li>
+	<li> Sr(OH)<sub>2</sub> </li>
+	<li> Ba(OH)<sub>2</sub> </li>
+	</ol>
+<img src = "http://www.factmonster.com/images/ESCI032ACIDS006.jpg" alt = "Acids" >
+<h4> <center> How Do We Measure Acidity or Basicity? </center> </h4>
+<p> We measure Acidity on the pH scale, which is simply the concentration of hydronium ions in the compound post-dissociation. First, we find the molarity of the hydronium ions after they dissociate. Then, we take the negative log of that molarity to find its ranking on the pH scale. We expect acids to rank less than 7 on the pH scale, and bases to rank more than 7 on the pH scale. However, we can flip this for the pOH scale, which we use to measure Basicity. In this case, we find the molarity of hydroxide ions after they dissociate. Likewise, we take the negative log of that molarity to find its ranking on the pOH scale. We expect bases to rank less than 7 on the pOH scale, and acids to rank more than 7 on the pOH scale. This is because a lower number means a higher concentration of ions. For any compound, the pH plus the pOH equals 14. This <bold> doesn't </bold> mean that the range for pH and pOH values is 0 to 14; they must simply add up to 14; the values can be negative or greater than 14. </p>
+<p>Click <a href = "http://www.chem4kids.com/files/react_acidbase.html" >here</a> for more information. 
+</p>
+	</body>
+</html> 

@@ -1,0 +1,76 @@
+
+
+<doctype! html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="csshake.min.css">
+<link rel="stylesheet" type="text/css" href="http://csshake.surge.sh/csshake.min.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="font.css">
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+<title> lists </title>
+<link rel="icon" 
+      type="image/png" 
+      href="http://68.media.tumblr.com/avatar_bad9d704902f_128.png">
+<audio id = 'x' autoplay>
+	<source src = "x.mp3" type = "audio/mpeg">
+</audio>
+
+<style>
+body{
+	background-image:url(http://i.imgur.com/4vTmqKo.gif);
+	background-color:black;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-position: center; 
+	margin:auto;
+	font-family:poppins;
+
+}
+
+.center {
+    padding: 5%;
+
+    text-align: center;
+}
+button{
+shake-constant
+
+</style>
+</head>
+<body>
+<div style = "margin: 1% 1%">
+<button onclick="playVid()" type="button" class = 'btn shake-slow shake-constant shake-constant--hover' style = "background-color:#171717;color:#A2A2A2">Play Audio</button><br>
+&nbsp&nbsp&nbsp&nbsp<br>
+	<button onclick="pauseVid()" type="button" class = 'btn shake-slow shake-constant shake-constant--hover' style = "background-color:#171717;color:#A2A2A2">Pause Audio</button><br> 
+	<script> 
+	var vid = document.getElementById("x"); 
+		
+	function playVid() { 
+	    vid.play(); 
+	} 
+
+	function pauseVid() { 
+	    vid.pause(); 
+	} 
+	</script> 
+</div>
+<div class = "center">
+
+<form method = "get" action = "gui.py">
+how many ordered pairs do you want<br>
+<input type = "text" name = "num" maxlength = '3'><br><br>
+<input type="submit" class = 'btn shake-slow shake-constant shake-constant--hover' style = "background-color:#171717;color:#A2A2A2;font-size:50px" name = "kms" value = "onwards!">
+</form>
+
+<!--
+<a href = "poo1.html"><button class = 'btn shake-slow shake-constant shake-constant--hover' style = "background-color:#171717;color:#A2A2A2;font-size:50px">onwards!</button></a>
+-->
+
+</div>
+</body>
+</html>
+
+
+
+
