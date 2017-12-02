@@ -129,7 +129,6 @@ def togetcoeffcor1(x,y):
 def togetitall(x,y):
      print "The quadratic that best fits your data is: y = " + str(togeta(x,y)) + "x^2 + " + str(togetb(x,y)) + "x + " + str(togetc(x,y))
      print "<br>The R^2 value produced was: " + str(togetcoeffcor1(x,y))
-     print "<br>While this R^2 value is not correct, it follows the only formulas I found online."
      
      
 
@@ -410,7 +409,7 @@ body{
 font-family:poppins;
 color: #ffffff;
 font-size:20px;
-	background-image:url(http://i.imgur.com/4vTmqKo.gif);
+	background-image:url(poo);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	background-position: center;
